@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_page_relative_layout"
+    android:background="@drawable/main_screen"
+    tools:context="com.example.apak.flancer.fragments.FlancerMainPage">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/my_RecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/button3"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ThirdClassSpinnerofMainPage"
+        android:visibility="visible" />
+
+    <Spinner
+        android:id="@+id/FirstClassSpinnerofMainPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true" />
+
+    <Spinner
+        android:id="@+id/SecondCLassSpinnerofMainPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/FirstClassSpinnerofMainPage" />
+
+    <Spinner
+        android:id="@+id/ThirdClassSpinnerofMainPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/SecondCLassSpinnerofMainPage" />
+
+    <Button
+        android:id="@+id/button3_browse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/linkColor"
+        android:text="Browse" />
+
+
+</RelativeLayout>

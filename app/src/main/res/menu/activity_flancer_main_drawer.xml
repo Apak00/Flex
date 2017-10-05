@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main_menu"
+            android:icon="@drawable/mainmenu"
+            android:title="Main Menu" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_job"
+            android:icon="@drawable/register"
+            android:title="Register a Job" />
+        <item
+            android:id="@+id/nav_Recieved"
+            android:icon="@drawable/messages"
+            android:title="Messages" />
+        <item
+            android:id="@+id/hak1"
+            android:title=""/>
+        <item
+            android:id="@+id/hak2"
+            android:title=""/>
+        <item
+            android:id="@+id/hak3"
+            android:title=""/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/com_facebook_close"
+            android:title="Logout" />
+
+
+
+
+    </group>
+
+
+</menu>

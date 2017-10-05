@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_flancer_main_drawer.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\menu\\activity_flancer_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\flancer_main.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\menu\\flancer_main.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\flancer_main.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\menu\\flancer_main.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_flancer_main_drawer.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\menu\\activity_flancer_main_drawer.xml"
+    }
+]

@@ -1,0 +1,115 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/myrl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context="com.example.apak.flancer.fragments.ProfileFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="122dp"
+        android:layout_height="139dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/ic_action_name"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+    <TextView
+        android:id="@+id/twusernameff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/phoneff"
+        android:layout_alignStart="@+id/phoneff"
+        android:layout_below="@+id/imageView5"
+        android:layout_marginTop="13dp"
+        android:text="Name"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="208dp" />
+
+    <EditText
+        android:id="@+id/profil_frag_user_name"
+        style="@style/FirebaseUI.Text.T09"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/twusernameff"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Profile Name"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="208dp" />
+
+    <EditText
+        android:id="@+id/profil_frag_user_phone"
+        style="@style/FirebaseUI.Text.T09"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/profil_frag_user_email"
+        android:layout_alignStart="@+id/profil_frag_user_email"
+        android:layout_below="@+id/phoneff"
+        android:ems="10"
+        android:hint="0 5.. ... .. .."
+        android:inputType="phone"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <TextView
+        android:id="@+id/emailff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/phoneff"
+        android:layout_alignStart="@+id/phoneff"
+        android:layout_below="@+id/profil_frag_user_phone"
+        android:layout_marginTop="16dp"
+        android:text="Email"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="332dp" />
+
+    <EditText
+        android:id="@+id/profil_frag_user_email"
+        style="@style/FirebaseUI.Text.T11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/profil_frag_user_name"
+        android:layout_alignLeft="@+id/profil_frag_user_name"
+        android:layout_alignRight="@+id/profil_frag_user_name"
+        android:layout_alignStart="@+id/profil_frag_user_name"
+        android:layout_below="@+id/emailff"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="332dp" />
+
+    <TextView
+        android:id="@+id/phoneff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profil_frag_user_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:text="Phone"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <Button
+        android:id="@+id/button_save_profile"
+        style="@android:style/Widget.Material.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profil_frag_user_email"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Save" />
+
+
+</RelativeLayout>

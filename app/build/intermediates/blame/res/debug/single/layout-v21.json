@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

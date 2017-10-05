@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">820802861275-blupg7tq7bsm9rl5ni6gfn9uegft0u1p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flancer-cda6b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">820802861275</string>
+    <string name="google_api_key" translatable="false">AIzaSyDO2ynpz5pFKReroD8B14JfdSUeblB6Tlc</string>
+    <string name="google_app_id" translatable="false">1:820802861275:android:bc38c15695c800da</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDO2ynpz5pFKReroD8B14JfdSUeblB6Tlc</string>
+    <string name="google_storage_bucket" translatable="false">flancer-cda6b.appspot.com</string>
+</resources>

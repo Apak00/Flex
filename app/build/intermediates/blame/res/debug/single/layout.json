@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\5392336d9774203815a315c2400c261f13526c0a\\output\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auth_method_picker_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__media_badge.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_email_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\register_email_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_no_password_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\signin_no_password_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\c86c3b027d11c6d8afa1f172b9285f8ac242db2c\\output\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_idp_prompt_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_flancer_main.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\app_bar_flancer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_flancer_main.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\content_flancer_main.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_no_password_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\signin_no_password_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_job.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\fragment_job.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about__us.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\fragment_about__us.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auth_method_picker_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recieved__messages.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\fragment_recieved__messages.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__tweet_compact.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_google.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\idp_button_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about__us.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\fragment_about__us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\sign_in_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__media_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_class.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\activity_messages_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_list_item.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\recycler_list_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_password_prompt_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__tweet_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__gallery_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__tweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_google.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\idp_button_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\d9f83a7f260838e470734a6f590a103abbc59017\\output\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\c86c3b027d11c6d8afa1f172b9285f8ac242db2c\\output\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\c4cfe404a24d9171788b431fe6bf0853912a48ba\\output\\res\\layout\\tw__app_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__player_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_flancer_main_page.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\fragment_flancer_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_flancer_main.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\app_bar_flancer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__video_control.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\c86c3b027d11c6d8afa1f172b9285f8ac242db2c\\output\\res\\layout\\tw__app_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\forgot_password_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_email_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\register_email_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\forgot_password_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_idp_prompt_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flancer_main.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\activity_flancer_main.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_list_item.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\recycler_list_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__video_control.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\sign_in_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_twitter.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\idp_button_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flancer_main.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\activity_flancer_main.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recieved__messages.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\fragment_recieved__messages.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_facebook.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\b92fe0d243a052146c22be7019d92763491b4d72\\output\\res\\layout\\idp_button_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__gallery_activity.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__tweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\d9f83a7f260838e470734a6f590a103abbc59017\\output\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__action_bar.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_twitter.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\idp_button_twitter.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\48f0ed800ac7dbac0f22a8a2e29273e74d5b98a2\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_flancer_main.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\content_flancer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_facebook.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\idp_button_facebook.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\5392336d9774203815a315c2400c261f13526c0a\\output\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\c4cfe404a24d9171788b431fe6bf0853912a48ba\\output\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__player_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_flancer_main.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\nav_header_flancer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_flancer_main_page.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\fragment_flancer_main_page.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_password_prompt_layout.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\6eef472cd7640f6c43dcc5997fdb95ea08a75c8d\\output\\res\\layout\\welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_quote.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\dc2ca73bd271c279cfddbff864be0a038fc7a6c6\\output\\res\\layout\\tw__tweet_quote.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_flancer_main.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\nav_header_flancer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\a1797f7761a00f133f7ba74a6fdd53e2a55c9ef2\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_job.xml",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\layout\\fragment_job.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\c4cfe404a24d9171788b431fe6bf0853912a48ba\\output\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\fb035e4fcc755837c426f77630368e12d88e884e\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_quote.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\4ccbc1d95578a3b8d71c34d59285cc397ba2d1f8\\output\\res\\layout\\tw__tweet_quote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\48da69f37bc0f8de2a3948a337789f6912dbcef5\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\mahmu\\.android\\build-cache\\632a26bf83e282ebd6cf7f1379fbb25a0a09843f\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_class.xml",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\layout\\activity_messages_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Apak\\.android\\build-cache\\f93aee2ce44895d68b6b29a54cd8048a39bce457\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820802861275",
+    "firebase_url": "https://flancer-cda6b.firebaseio.com",
+    "project_id": "flancer-cda6b",
+    "storage_bucket": "flancer-cda6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820802861275:android:bc38c15695c800da",
+        "android_client_info": {
+          "package_name": "com.example.apak.flancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820802861275-brc5lkjpp6k2dhk53lrgujt9g0m8bsri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apak.flancer",
+            "certificate_hash": "d6d7c07d8966f8ec02fb1afd74c4b28ac0b1f2f1"
+          }
+        },
+        {
+          "client_id": "820802861275-blupg7tq7bsm9rl5ni6gfn9uegft0u1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2ynpz5pFKReroD8B14JfdSUeblB6Tlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820802861275-blupg7tq7bsm9rl5ni6gfn9uegft0u1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

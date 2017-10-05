@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\Programs\\AndroidStudioPojects\\Flex v3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Apak\\AndroidStudioProjects\\Flancer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

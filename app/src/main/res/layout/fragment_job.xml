@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/register_job"
+    android:orientation="vertical"
+    tools:context="com.example.apak.flancer.fragments.JobFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Spinner
+        android:id="@+id/FirstClassSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/com_facebook_auth_dialog_cancel_background" />
+
+    <Spinner
+        android:id="@+id/SecondCLassSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/FirstClassSpinner"
+        android:background="@drawable/com_facebook_auth_dialog_cancel_background" />
+
+    <Spinner
+        android:id="@+id/ThirdClassSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/SecondCLassSpinner"
+        android:background="@drawable/com_facebook_auth_dialog_cancel_background" />
+
+    <Button
+        android:id="@+id/Register_job"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Register Job" />
+
+    <EditText
+        android:id="@+id/etAdditional_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ThirdClassSpinner"
+        android:background="@drawable/com_facebook_auth_dialog_cancel_background"
+        android:ems="10"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="bottom"
+        android:hint="Additional Information"
+        android:inputType="textPersonName"
+        android:layout_above="@+id/Register_job" />
+
+</RelativeLayout>

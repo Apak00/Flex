@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Apak\AndroidStudioProjects\Flancer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Apak\AndroidStudioProjects\Flancer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0d582fae03faa534030ba83138714d112b35c958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Apak\AndroidStudioProjects\Flancer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30dca441d0b2651b5e859ec1e7e895c8d208dffe">
+        <dex dex="C:\Users\Apak\AndroidStudioProjects\Flancer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_71fb797c0bdb2a80cc64f36004ea8ceba01fd56a\classes.dex" />
+    </item>
+
+</items>
